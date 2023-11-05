@@ -1,0 +1,5 @@
+- Add more game attilery
+- Add more details in the map
+- Add more game mechanic 
+- Slightly change the animation so it can sync well with the game
+- Allow the player to perform action like crawling or throw bomb.

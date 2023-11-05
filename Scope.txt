@@ -1,0 +1,6 @@
+- He thống di chuyển của nhân vật: AWSD, cần animation 
+- Map (5 map): 1 trên 5
+- Hệ thống kẻ thù (Bom, lính, đạn pháo):
+- Môi trường (Núi xác và đầm lầy):
+- Hệ thống debuff (): 
+- 
